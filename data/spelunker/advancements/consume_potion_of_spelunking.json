@@ -1,0 +1,16 @@
+{
+	"criteria": {
+	  "requirement": {
+		"trigger": "minecraft:consume_item",
+		"conditions": {
+		  "item": {
+			"item": "potion",
+			"nbt": "{potion_of_spelunking:1b}"
+		  }
+		}
+	  }
+	},
+	"rewards": {
+		"function": "spelunker:give_spelunker_effect"
+	}
+}
