@@ -1,11 +1,11 @@
 {
   "display": {
     "title": "Potion of Spelunking",
-    "description": "Potion that gives you the ability to see ores through blocks",
+    "description": "§7See ores through walls",
     "icon": {
-			"item": "minecraft:potion",
-			"nbt": "{display:{Name:'{\"text\":\"Potion of Spelunking\",\"italic\":false}',Lore:['{\"text\":\"Spelunker (3:00)\",\"color\":\"blue\",\"italic\":false}']},HideFlags:63,potion_of_spelunking:1b,Potion:\"minecraft:empty\",CustomPotionColor:16318256}"
-		},
+      "item": "minecraft:potion",
+      "nbt": "{display:{Name:'{\"text\":\"Potion of Spelunking\",\"italic\":false}',Lore:['{\"text\":\"Spelunker (3:00)\",\"color\":\"blue\",\"italic\":false}']},HideFlags:63,potion_of_spelunking:1b,Potion:\"minecraft:empty\",CustomPotionColor:16318256}"
+    },
     "background": "minecraft:textures/block/black_concrete_powder.png",
     "show_toast": false,
     "announce_to_chat": false

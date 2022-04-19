@@ -1,0 +1,15 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"item": "minecraft:milk_bucket"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "spelunker.1:on_trigger/drank_milk"
+	}
+}

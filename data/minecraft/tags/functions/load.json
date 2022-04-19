@@ -1,5 +1,5 @@
 {
     "values": [
-        "spelunker:load"
+        "#load:_private/load"
     ]
 }
