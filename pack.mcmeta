@@ -1,6 +1,35 @@
 {
-  "pack": {
-    "pack_format": 8,
-    "description": "§7See ores through walls       §3v3§r §a(1.18+)§r §8(§7By §bDanMizu§8)"
-  }
+	"pack": {
+		"pack_format": 10,
+		"description": [
+			{
+				"text": "See Ores Through Walls! ",
+				"color": "gray"
+			},
+			{
+				"text": "v1.1 ",
+				"color": "dark_green"
+			},
+			{
+				"text": "[1.19+] ",
+				"color": "green"
+			},
+			{
+				"text": "(",
+				"color": "dark_gray"
+			},
+			{
+				"text": "By ",
+				"color": "gray"
+			},
+			{
+				"text": "DanMizu",
+				"color": "aqua"
+			},
+			{
+				"text": ")",
+				"color": "dark_gray"
+			}
+		]
+	}
 }
