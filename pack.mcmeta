@@ -1,17 +1,17 @@
 {
 	"pack": {
-		"pack_format": 10,
+		"pack_format": 9,
 		"description": [
 			{
 				"text": "See Ores Through Walls! ",
 				"color": "gray"
 			},
 			{
-				"text": "v1.1 ",
+				"text": "v2.1 ",
 				"color": "dark_green"
 			},
 			{
-				"text": "[1.19+] ",
+				"text": "[1.18+] ",
 				"color": "green"
 			},
 			{
