@@ -1,0 +1,13 @@
+{
+    "rewards": {
+        "function": "spelunker.2:generate_loot/ruined_portal"
+    },
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:player_generates_container_loot",
+        "conditions": {
+            "loot_table": "minecraft:chests/ruined_portal"
+        }
+      }
+    }
+}

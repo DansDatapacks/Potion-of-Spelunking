@@ -1,6 +1,6 @@
 {
     "values": [
-        "sourcecraft.1:on_event/on_pre_load",
-        "spelunker.1:on_event/on_pre_load"
+        "sourcecraft.6:on_event/on_pre_load",
+        "spelunker.2:on_event/on_pre_load"
     ]
 }
