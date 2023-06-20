@@ -22,11 +22,11 @@
         <img width="200rem" src="buttons/modrinth_button.png" alt="Available On Modrinth"/>
     </a>
     &nbsp;&nbsp;
-    <a style="text-decoration:none;" href="https://www.curseforge.com/minecraft/texture-packs/plushpets" target="_blank">
+    <a style="text-decoration:none;" href="https://www.curseforge.com/minecraft/texture-packs/potion-of-spelunking" target="_blank">
         <img width="200rem" src="buttons/curseforge_button.png" alt="Available On Curseforge"/>
     </a>
     &nbsp;&nbsp;
-    <a style="text-decoration:none;" href="https://www.planetminecraft.com/data-pack/plushpets/" target="_blank">
+    <a style="text-decoration:none;" href="https://www.planetminecraft.com/data-pack/potion-of-spelunking-see-ores-through-walls/" target="_blank">
         <img width="200rem" src="buttons/planetminecraft_button.png" alt="Available On PlanetMinecraft"/>
     </a>
 </p>
