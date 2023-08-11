@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <b>See Ores Through Walls!</b>
+    <b>Vanilla Friendly X-Ray: See Ores Through Walls!</b>
 </p>
 
 <p align="center">
