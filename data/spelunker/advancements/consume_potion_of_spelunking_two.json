@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:potion"
+            ],
+            "nbt": "{potion_of_spelunking:2b}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "spelunker:on_trigger/drank_spelunker_two_potion"
+    }
+}

@@ -1,6 +1,5 @@
 {
     "values": [
-        "sourcecraft.6:on_event/on_load_verify",
-        "spelunker.2:on_event/on_load_verify"
+        "spelunker:on_event/on_load"
     ]
 }
