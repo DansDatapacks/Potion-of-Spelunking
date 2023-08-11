@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Potion of Spelunking\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Spelunker (3:00)\",\"color\":\"blue\",\"italic\":false}']},HideFlags:63,potion_of_spelunking:1b,Potion:\"minecraft:empty\",CustomPotionColor:16318256,Enchantments:[{}]}"
+              "tag": "{display:{Name:'{\"text\":\"Potion of Spelunking\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Spelunker (3:00)\",\"color\":\"blue\",\"italic\":false}']},HideFlags:63,potion_of_spelunking:1b,Potion:\"minecraft:empty\",CustomPotionColor:16318256}"
             }
           ]
         }
